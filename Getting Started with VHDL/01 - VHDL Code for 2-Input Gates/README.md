@@ -24,7 +24,9 @@ This example demonstrates the implementation of basic 2-input logic gates in VHD
      - `z(0)`: Logical XNOR of `a` and `b`.
 
 4. **Design Schematic**:
+   
 ![image](https://github.com/user-attachments/assets/49a9084d-bb43-4f1a-98f0-956fc3bc3d9b)
 
 5. **Simulation Results**:
+   
 ![image](https://github.com/user-attachments/assets/35f1447a-bd29-40f9-a442-9adccb25176a)
