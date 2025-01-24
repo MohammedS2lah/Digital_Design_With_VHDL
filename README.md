@@ -4,7 +4,7 @@ Welcome to the **Digital_Design_With_VHDL Repository**! This project provides a 
 
 ---
 
-## 📁 **Repository Structure**  
+## **Repository Structure**  
 
 The repository is divided into several parts, each covering different aspects of VHDL design:  
 
@@ -22,7 +22,7 @@ The repository is divided into several parts, each covering different aspects of
 
 ---
 
-## 🔧 **What You’ll Find**  
+## **What You’ll Find**  
 
 - Basic VHDL designs to help you start your journey.  
 - Practical examples of how to use VHDL for real-world designs.  
@@ -30,7 +30,7 @@ The repository is divided into several parts, each covering different aspects of
 
 ---
 
-## 📜 **How to Use This Repository**  
+## **How to Use This Repository**  
 
 1. **Clone the Repository:**  
    ```bash  
@@ -49,7 +49,7 @@ The repository is divided into several parts, each covering different aspects of
 
 ---
 
-## 🌟 **Why Use This Repository?**  
+## **Why Use This Repository?**  
 
 This repository is:  
 - A straightforward starting point for learning VHDL.  
@@ -58,23 +58,23 @@ This repository is:
 
 ---
 
-## 🛠 **Requirements**  
+## **Requirements**  
 
 - **VHDL Simulator:** ModelSim, Vivado, or other similar tools.  
 - (Optional) FPGA boards if you wish to implement the designs in hardware.  
 
 ---
 
-## 📄 **License**  
+## **License**  
 
 This repository is licensed under the [MIT License](LICENSE). You’re free to use, modify, and share the content as long as you provide proper attribution.  
 
 ---
 
-## 💬 **Feedback and Contributions**  
+## **Feedback and Contributions**  
 
 This is a simple resource that can grow with your input! Feel free to suggest improvements, share your designs, or raise issues. Contributions are welcome!  
 
 ---
 
-Let’s learn VHDL together! 🎉  
+Let’s learn VHDL together! 
