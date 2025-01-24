@@ -1,6 +1,6 @@
 # **Digital_Design_With_VHDL Repository**  
 
-Welcome to the **Digital_Design_With_VHDL Repository**! This project provides a simple, organized collection of VHDL designs and tutorials. It’s designed to help anyone—from beginners to enthusiasts—learn and practice digital design using VHDL.  
+Welcome to the **Digital_Design_With_VHDL Repository**! This project provides a simple, organized collection of VHDL designs and tutorials. It’s designed to help anyone—from beginners to enthusiasts—learn and practice digital design using VHDL (Very High-Speed Integrated Circuit (VHSIC) Hardware Description Language).  
 
 ---
 
