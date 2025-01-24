@@ -43,3 +43,4 @@ The multiplexer selects one of two single-bit inputs (`a` or `b`) based on a sin
 
 #### Simulation Results
 
+![image](https://github.com/user-attachments/assets/bde83ea3-e75f-438f-a746-cb94387be79f)
