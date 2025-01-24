@@ -75,6 +75,3 @@ This repository is licensed under the [MIT License](LICENSE). You’re free to u
 
 This is a simple resource that can grow with your input! Feel free to suggest improvements, share your designs, or raise issues. Contributions are welcome!  
 
----
-
-Let’s learn VHDL together! 
